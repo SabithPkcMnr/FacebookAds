@@ -6,6 +6,13 @@ This is an app that displays all the Facebook Mobile Ads based on Audience Netwo
 implementation 'com.facebook.android:audience-network-sdk:5.3.1'
 ```
 
+
+Initialize the AudienceNetworkAds class.
+```java
+AudienceNetworkAds.initialize(this);
+```
+        
+
 # Ads Implemented
 The ads may not be displaying on Android Emulators so try to run the app on a real Android Phone or Tablet:
 <h3>Ad Types</h3>
