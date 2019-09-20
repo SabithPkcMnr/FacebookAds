@@ -1,7 +1,7 @@
 # FacebookAds
 An Android app that displays all the Facebook Mobile Ads based on Audience Network SDK. Replace the existing adunits from <b>ActivityConfig.java class</b>. Facebook offer some extra tips on how to implement the ads for Android on this [page](https://developers.facebook.com/docs/audience-network/sdk-integration-tips-on-android/).
 
-# Implementation
+## Implementation
 Add the audience network sdk dependency to build.gradle(Module: app)
 ```
 implementation 'com.facebook.android:audience-network-sdk:5.3.1'
@@ -14,7 +14,7 @@ AudienceNetworkAds.initialize(this);
 ```
         
 
-# Ads Implemented
+## Ads Implemented in the app
 The ads may not be displaying on Android Emulators so try to run the app on a real Android Phone or Tablet:
 <h3>Ad Types</h3>
 * Banner Ad (50 & 90 Sized)<br>
