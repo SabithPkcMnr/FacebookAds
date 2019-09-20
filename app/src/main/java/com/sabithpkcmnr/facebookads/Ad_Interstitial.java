@@ -3,27 +3,73 @@ package com.sabithpkcmnr.facebookads;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.Toast;
+import android.util.Log;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.ProgressBar;
+import android.widget.TextView;
 
 import com.facebook.ads.AbstractAdListener;
 import com.facebook.ads.Ad;
+import com.facebook.ads.AdError;
 import com.facebook.ads.InterstitialAd;
 
 public class Ad_Interstitial extends AppCompatActivity {
+
+    TextView txStatus;
+    ProgressBar progress;
+
+    InterstitialAd interstitialAd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_ad_interstitial);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        InterstitialAd interstitialAd = new InterstitialAd(this, "607114842814465_1113617358830875");
+        txStatus = findViewById(R.id.interstitial_status);
+        progress = findViewById(R.id.interstitial_progress);
+
+        interstitialAd = new InterstitialAd(this, ActivityConfig.FB_INTERSTITIAL);
         interstitialAd.loadAd();
         interstitialAd.setAdListener(new AbstractAdListener() {
+
+            @Override
+            public void onError(Ad ad, AdError error) {
+                super.onError(ad, error);
+                Log.d("adInterLog", error.getErrorMessage());
+                progress.setVisibility(View.GONE);
+                txStatus.setText("Ad Failed to load");
+            }
+
+            @Override
+            public void onInterstitialDisplayed(Ad ad) {
+                super.onInterstitialDisplayed(ad);
+                progress.setVisibility(View.GONE);
+                txStatus.setText("Ad Displayed");
+            }
+
+            @Override
+            public void onInterstitialDismissed(Ad ad) {
+                super.onInterstitialDismissed(ad);
+                progress.setVisibility(View.GONE);
+                txStatus.setText("Ad Closed");
+            }
+
             @Override
             public void onAdLoaded(Ad ad) {
                 super.onAdLoaded(ad);
-                Toast.makeText(Ad_Interstitial.this, "Loaded", Toast.LENGTH_SHORT).show();
+                txStatus.setText("Ad Loaded");
+                interstitialAd.show();
             }
         });
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            finish();
+        }
+        return super.onOptionsItemSelected(item);
     }
 }

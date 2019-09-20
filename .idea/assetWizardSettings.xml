@@ -158,8 +158,8 @@
                         <option name="values">
                           <map>
                             <entry key="assetSourceType" value="FILE" />
-                            <entry key="outputName" value="ic_github" />
-                            <entry key="sourceFile" value="C:\Users\sabit\Downloads\github-logo.svg" />
+                            <entry key="outputName" value="ic_splash" />
+                            <entry key="sourceFile" value="C:\Users\sabit\Downloads\shop-bag.svg" />
                           </map>
                         </option>
                       </PersistentState>

@@ -19,17 +19,21 @@
         android:debuggable="true"
         android:icon="@mipmap/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
-        <activity android:name="com.sabithpkcmnr.facebookads.ActivitySplash" />
+        android:testOnly="true"
+        android:theme="@style/ThemeAds" >
         <activity
-            android:name="com.sabithpkcmnr.facebookads.ActivityHome"
-            android:label="Home Page" >
+            android:name="com.sabithpkcmnr.facebookads.ActivitySplash"
+            android:theme="@style/ThemeSplash" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.sabithpkcmnr.facebookads.ActivityHome"
+            android:label="Home Page"
+            android:theme="@style/ThemeDefault" />
         <activity
             android:name="com.sabithpkcmnr.facebookads.Ad_Banner"
             android:label="Banner Ads" />

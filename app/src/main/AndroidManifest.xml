@@ -11,30 +11,39 @@
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:supportsRtl="true"
-        android:theme="@style/AppTheme"
+        android:theme="@style/ThemeAds"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".ActivitySplash"></activity>
+
         <activity
-            android:name=".ActivityHome"
-            android:label="Home Page">
+            android:theme="@style/ThemeSplash"
+            android:name=".ActivitySplash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <activity
+            android:theme="@style/ThemeDefault"
+            android:name=".ActivityHome"
+            android:label="Home Page" />
+
         <activity
             android:name=".Ad_Banner"
             android:label="Banner Ads" />
+
         <activity
             android:name=".Ad_Interstitial"
             android:label="Interstitial Ad" />
+
         <activity
             android:name=".Ad_Rectangle"
             android:label="Rectangle Ad" />
+
         <activity
             android:name=".Ad_Reward"
             android:label="Reward Ad" />
+
     </application>
 
 </manifest>
