@@ -1,0 +1,125 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sabithpkcmnr.facebookads"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:7:22-76
+13
+14    <application
+14-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:9:5-38:19
+15        android:name="com.sabithpkcmnr.facebookads.ActivityBase"
+15-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:10:9-37
+16        android:allowBackup="true"
+16-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:11:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.0.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\72b2b92ec4ab73ff21fb9bc348de3b22\core-1.0.1\AndroidManifest.xml:22:18-86
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:12:9-43
+20        android:supportsRtl="true"
+20-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:13:9-35
+21        android:theme="@style/AppTheme" >
+21-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:14:9-40
+22        <activity android:name="com.sabithpkcmnr.facebookads.ActivitySplash" />
+22-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:16:9-61
+22-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:16:19-49
+23        <activity
+23-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:17:9-25:20
+24            android:name="com.sabithpkcmnr.facebookads.ActivityHome"
+24-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:18:13-41
+25            android:label="Home Page" >
+25-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:19:13-38
+26            <intent-filter>
+26-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:20:13-24:29
+27                <action android:name="android.intent.action.MAIN" />
+27-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:21:17-69
+27-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:21:25-66
+28
+29                <category android:name="android.intent.category.LAUNCHER" />
+29-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:23:17-77
+29-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:23:27-74
+30            </intent-filter>
+31        </activity>
+32        <activity
+32-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:26:9-28:42
+33            android:name="com.sabithpkcmnr.facebookads.Ad_Banner"
+33-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:27:13-38
+34            android:label="Banner Ads" />
+34-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:28:13-39
+35        <activity
+35-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:29:9-31:47
+36            android:name="com.sabithpkcmnr.facebookads.Ad_Interstitial"
+36-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:30:13-44
+37            android:label="Interstitial Ad" />
+37-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:31:13-44
+38        <activity
+38-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:32:9-34:44
+39            android:name="com.sabithpkcmnr.facebookads.Ad_Rectangle"
+39-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:33:13-41
+40            android:label="Rectangle Ad" />
+40-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:34:13-41
+41        <activity
+41-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:35:9-37:41
+42            android:name="com.sabithpkcmnr.facebookads.Ad_Reward"
+42-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:36:13-38
+43            android:label="Reward Ad" />
+43-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:37:13-38
+44        <activity
+44-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:15:9-19:75
+45            android:name="com.facebook.ads.AudienceNetworkActivity"
+45-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:16:13-68
+46            android:configChanges="keyboardHidden|orientation|screenSize"
+46-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:17:13-74
+47            android:exported="false"
+47-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:18:13-37
+48            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+48-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:19:13-72
+49        <activity
+49-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:20:9-25:75
+50            android:name="com.facebook.ads.internal.ipc.RemoteANActivity"
+50-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:21:13-74
+51            android:configChanges="keyboardHidden|orientation|screenSize"
+51-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:22:13-74
+52            android:exported="false"
+52-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:23:13-37
+53            android:process=":adnw"
+53-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:24:13-36
+54            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+54-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:25:13-72
+55
+56        <service
+56-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:27:9-29:40
+57            android:name="com.facebook.ads.internal.ipc.AdsProcessPriorityService"
+57-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:28:13-83
+58            android:exported="false" />
+58-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:29:13-37
+59        <service
+59-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:30:9-33:39
+60            android:name="com.facebook.ads.internal.ipc.AdsMessengerService"
+60-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:31:13-77
+61            android:exported="false"
+61-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:32:13-37
+62            android:process=":adnw" />
+62-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:33:13-36
+63
+64        <meta-data
+64-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
+65            android:name="com.google.android.gms.version"
+65-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
+66            android:value="@integer/google_play_services_version" />
+66-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
+67    </application>
+68
+69</manifest>

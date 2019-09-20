@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Ad_Banner">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="match_parent"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:layout_height="wrap_content"
+        android:text="Banner Size 50"/>
+
+    <RelativeLayout
+        android:id="@+id/ad_banner_50"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="20dp"
+        android:layout_width="match_parent"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:layout_height="wrap_content"
+        android:text="Banner Size 90"/>
+
+    <RelativeLayout
+        android:id="@+id/ad_banner_90"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
