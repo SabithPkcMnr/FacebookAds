@@ -8,7 +8,7 @@ implementation 'com.facebook.android:audience-network-sdk:5.3.1'
 
 
 Initialize the AudienceNetworkAds class.
-```java
+```groovy
 AudienceNetworkAds.initialize(this);
 ```
         
