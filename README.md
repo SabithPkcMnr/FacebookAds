@@ -25,4 +25,6 @@ The ads may not be displaying on Android Emulators so try to run the app on a re
 
 <br>
 <br>
-<br>Feel free to give a star, fork and play around the ads. This app make it easy for your to implement Facebook ads very easily just like how we used to implement the [Google AdMob Ads](https://developers.google.com/admob/android/quick-start/).
+<br>Feel free to give a star, fork and play around the ads.
+
+This app make it easy for your to implement Facebook ads very easily just like how we used to implement the [Google AdMob Ads](https://developers.google.com/admob/android/quick-start/).
