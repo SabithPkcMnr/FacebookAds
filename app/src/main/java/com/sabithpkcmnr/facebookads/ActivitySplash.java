@@ -24,6 +24,7 @@ public class ActivitySplash extends AppCompatActivity {
             @Override
             public void run() {
                 startActivity(new Intent(ActivitySplash.this, ActivityHome.class));
+                finish();
             }
         }, 3000);
     }
