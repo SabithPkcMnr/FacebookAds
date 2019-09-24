@@ -21,7 +21,7 @@ The ads may not be displaying on Android Emulators so try to run the app on a re
 <br>- Interstitial Ad
 <br>- Rectangle Banner Ad
 <br>- Reward Ad (Require approval)</b>
-<img src="/screenshots/sabith_pkc_mnr_github_fb_ads_repo_intro.png">
+<img src="/screenshots/fb_ads_repo_promo.webp">
 
 <br>
 <br>
