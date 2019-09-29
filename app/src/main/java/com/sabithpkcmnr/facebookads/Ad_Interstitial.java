@@ -1,13 +1,13 @@
 package com.sabithpkcmnr.facebookads;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.facebook.ads.AbstractAdListener;
 import com.facebook.ads.Ad;
@@ -19,6 +19,7 @@ public class Ad_Interstitial extends AppCompatActivity {
     TextView txStatus;
     ProgressBar progress;
 
+    boolean canShowFullscreenAd;
     InterstitialAd interstitialAd;
 
     @Override
@@ -60,7 +61,9 @@ public class Ad_Interstitial extends AppCompatActivity {
             public void onAdLoaded(Ad ad) {
                 super.onAdLoaded(ad);
                 txStatus.setText("Ad Loaded");
-                interstitialAd.show();
+                if (canShowFullscreenAd) {
+                    interstitialAd.show();
+                }
             }
         });
     }
@@ -71,5 +74,17 @@ public class Ad_Interstitial extends AppCompatActivity {
             finish();
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+        canShowFullscreenAd = false;
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        canShowFullscreenAd = true;
     }
 }
