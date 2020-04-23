@@ -4,41 +4,40 @@ ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:2:1-36:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:16:1-23:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:16:1-23:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:1-49:12
@@ -60,30 +59,28 @@ INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xm
 		ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:6:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:11:5-67
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:11:5-67
 	android:name
 		ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:6:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:7:5-79
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:12:5-79
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:12:5-79
 	android:name
 		ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:7:22-76
 application
 ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:9:5-47:19
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:14:5-34:19
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:14:5-34:19
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:19:5-21:19
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:19:5-21:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:14:5-34:19
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:14:5-34:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:19:5-21:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:13:9-35
 	tools:ignore
@@ -148,76 +145,74 @@ uses-sdk
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\37ec02f661e3547c5499ecdfd9f3cd1f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:17:5-43
-MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:17:5-43
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\add2bdb41de46d90e5d3bd4e75929820\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\dd07e922b5233b833d82ee834e6becf7\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\daa47187fb0f0a7c419d1b10e1677cdd\activity-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\beed28e19d4f55ab2c17aff66e0bc400\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e0d80e5c178a0db065288a448fc598ef\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\04087833f388d5ffa97a080d757646c2\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0554424e228349ffc3db0700d1324aa1\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\bad233a64070d55cab9a83b26afbf154\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7acef2a7bfef3795312317efec15d83e\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\420f294924962582b4c42c622af43461\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\66e997bde0b6ece28f7fd36f5f4a1584\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\8787729f29cf7add1bc29c81caccddfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ef8a364a6a39421e69c96cf68eeb3e63\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\271d0ad8fab014e1b69399f7396f344c\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:17:5-43
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7e27c7d396810af644fcc2d5ec8384aa\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\7eb3e9033e20967dc4b6eab4b9d34b59\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a627ba2b0fb7cab1458068884dcfd7e5\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\e40a377249758d23414d21222f000040\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\369c371dbc36cd3420e0891af4dc30b8\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\b685d122498cf50e728d648d063a2ff6\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3dd2a90cf4903229672e8d620934c6ca\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1290085211f6ca31e4b44ad501b0e7c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\db341947bb3b430f2ccfc05cfed8623a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\69b157e8ca7c4f8e65106af271a2dd62\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ee8663f4341a41303331ea0b304242d0\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0d46da4f5ac771dd79c1a2c9880b8580\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\97f01785cab2549e8be5ef5c8b1dbcb3\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\3584c755b13ff246a30ea06b73bd9d78\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\92a82d0e6836fc2764f8a4c5ae17cc0a\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\fee859eac2601f0c53561481b8362e20\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\2d0e89544ecc30a9184b81b65acf458e\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\a87a91cfc12796be4a5399f6708c1bed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\0e4335c82d4d573388d62295e89eaaed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4dea87d08cf4eca2be6818de5406de80\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c87d4ce634b90f093cf672ae75a3e2d\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\f2e8952936b7109d6ac9ab1e40e3d573\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\30612fa1f33fcbb3e456c3a5f852366f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9c0d2720907bb8bd5d5976efee735314\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d00c90699ae27cc1e1ce5e4b3e530617\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\13ac386f95e101744ae5f7d486caaa8c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\4b326e320f7fb8e89e2bb3879ac950d2\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\ba74e7a1df14494ca70ea72adf4fc3bf\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\5d6ed104b1267309eec087762b08ed9e\print-1.0.0\AndroidManifest.xml:20:5-44
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -229,44 +224,44 @@ INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xm
 		ADDED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 activity#com.facebook.ads.AudienceNetworkActivity
-ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:15:9-19:75
+ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:15:9-19:75
 	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:18:13-37
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:18:13-37
 	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:17:13-74
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:17:13-74
 	android:theme
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:19:13-72
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:19:13-72
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:16:13-68
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:16:13-68
 activity#com.facebook.ads.internal.ipc.RemoteANActivity
-ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:20:9-25:75
+ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:20:9-25:75
 	android:process
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:24:13-36
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:24:13-36
 	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:23:13-37
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:23:13-37
 	android:configChanges
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:22:13-74
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:22:13-74
 	android:theme
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:25:13-72
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:25:13-72
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:21:13-74
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:21:13-74
 service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
-ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:27:9-29:40
+ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:27:9-29:40
 	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:29:13-37
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:28:13-83
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:28:13-83
 service#com.facebook.ads.internal.ipc.AdsMessengerService
-ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:30:9-33:39
+ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:30:9-33:39
 	android:process
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:33:13-36
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:33:13-36
 	android:exported
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:32:13-37
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:31:13-77
+		ADDED from [com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:31:13-77
 meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
 	android:name
-		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65

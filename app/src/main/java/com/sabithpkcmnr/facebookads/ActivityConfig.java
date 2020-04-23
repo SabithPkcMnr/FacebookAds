@@ -2,9 +2,10 @@ package com.sabithpkcmnr.facebookads;
 
 class ActivityConfig {
 
-    static String FB_BANNER = "607114842814465_1115067832019161";
-    static String FB_RECTANGLE = "607114842814465_1116658658526745";
-    static String FB_INTERSTITIAL = "607114842814465_1129224397270171";
-    static String FB_REWARD = "607114842814465_1120504261475518";
+    //Replace this Adunits IDs with your own Facebook App Adunits
+    static String FB_BANNER = "607114842814xyz_1115067832019xyz";
+    static String FB_RECTANGLE = "607114842814xyz_1116658658526xyz";
+    static String FB_INTERSTITIAL = "607114842814xyz_1129224397270xyz";
+    static String FB_REWARD = "607114842814xyz_1120504261475xyz";
 
 }

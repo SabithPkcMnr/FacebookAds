@@ -7,7 +7,7 @@
 7    <uses-sdk
 8        android:minSdkVersion="19"
 8-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="28" />
+9        android:targetSdkVersion="29" />
 9-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
@@ -24,7 +24,7 @@
 16        android:allowBackup="true"
 16-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:11:9-35
 17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-17-->[androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
+17-->[androidx.core:core:1.1.0] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
 18        android:debuggable="true"
 19        android:icon="@mipmap/ic_launcher"
 19-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:12:9-43
@@ -83,49 +83,49 @@
 47            android:label="Reward Ad" />
 47-->C:\Users\sabit\Desktop\FacebookAds\app\src\main\AndroidManifest.xml:45:13-38
 48        <activity
-48-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:15:9-19:75
+48-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:15:9-19:75
 49            android:name="com.facebook.ads.AudienceNetworkActivity"
-49-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:16:13-68
+49-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:16:13-68
 50            android:configChanges="keyboardHidden|orientation|screenSize"
-50-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:17:13-74
+50-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:17:13-74
 51            android:exported="false"
-51-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:18:13-37
+51-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:18:13-37
 52            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-52-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:19:13-72
+52-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:19:13-72
 53        <activity
-53-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:20:9-25:75
+53-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:20:9-25:75
 54            android:name="com.facebook.ads.internal.ipc.RemoteANActivity"
-54-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:21:13-74
+54-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:21:13-74
 55            android:configChanges="keyboardHidden|orientation|screenSize"
-55-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:22:13-74
+55-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:22:13-74
 56            android:exported="false"
-56-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:23:13-37
+56-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:23:13-37
 57            android:process=":adnw"
-57-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:24:13-36
+57-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:24:13-36
 58            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-58-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:25:13-72
+58-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:25:13-72
 59
 60        <service
-60-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:27:9-29:40
+60-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:27:9-29:40
 61            android:name="com.facebook.ads.internal.ipc.AdsProcessPriorityService"
-61-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:28:13-83
+61-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:28:13-83
 62            android:exported="false" />
-62-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:29:13-37
+62-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:29:13-37
 63        <service
-63-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:30:9-33:39
+63-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:30:9-33:39
 64            android:name="com.facebook.ads.internal.ipc.AdsMessengerService"
-64-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:31:13-77
+64-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:31:13-77
 65            android:exported="false"
-65-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:32:13-37
+65-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:32:13-37
 66            android:process=":adnw" />
-66-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\1dfec0b582d55784dd1edefc149803b7\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:33:13-36
+66-->[com.facebook.android:audience-network-sdk:5.3.1] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\9ffaa06f3f8f26fa5450b7947d161374\jetified-audience-network-sdk-5.3.1\AndroidManifest.xml:33:13-36
 67
 68        <meta-data
-68-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
+68-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:9-121
 69            android:name="com.google.android.gms.version"
-69-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
+69-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:20-65
 70            android:value="@integer/google_play_services_version" />
-70-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\d1dc5986d72c7e592d6cfac354621242\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
+70-->[com.google.android.gms:play-services-basement:11.0.4] C:\Users\sabit\.gradle\caches\transforms-2\files-2.1\caa47ff7ee7e09cfdac614da1b9d397f\jetified-play-services-basement-11.0.4\AndroidManifest.xml:20:66-119
 71    </application>
 72
 73</manifest>

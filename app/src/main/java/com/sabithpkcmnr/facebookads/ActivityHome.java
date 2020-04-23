@@ -12,7 +12,7 @@ import android.widget.Button;
 public class ActivityHome extends AppCompatActivity {
 
     Button btGitHub;
-    CardView cdBanner, cdInterstitial, cdRectangle, cdReward;
+    CardView cdBanner, cdInterstitial, cdRectangle, cdReward, cdGitHub;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,6 +24,7 @@ public class ActivityHome extends AppCompatActivity {
         cdInterstitial = findViewById(R.id.cdInterstitial);
         cdReward = findViewById(R.id.cdReward);
         btGitHub = findViewById(R.id.btGitHub);
+        cdGitHub = findViewById(R.id.cdGitHub);
 
         cdBanner.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -54,6 +55,14 @@ public class ActivityHome extends AppCompatActivity {
         });
 
         btGitHub.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/SabithPkcMnr"));
+                startActivity(browserIntent);
+            }
+        });
+
+        cdGitHub.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://github.com/SabithPkcMnr"));
