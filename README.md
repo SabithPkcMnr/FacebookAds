@@ -4,7 +4,7 @@ An Android app that displays all the Facebook Mobile Ads based on Audience Netwo
 ## Implementation
 Add the audience network sdk dependency to build.gradle(Module: app)
 ```
-implementation 'com.facebook.android:audience-network-sdk:5.7.0'
+implementation 'com.facebook.android:audience-network-sdk:5.9.1'
 ```
 
 
