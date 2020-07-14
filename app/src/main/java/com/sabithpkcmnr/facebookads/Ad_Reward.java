@@ -15,8 +15,6 @@ public class Ad_Reward extends AppCompatActivity {
         setContentView(R.layout.activity_ad_reward);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
-        //607114842814465_1120504261475518
-
         RewardedVideoAd rewardedVideoAd = new RewardedVideoAd(this, ActivityConfig.FB_REWARD);
         rewardedVideoAd.loadAd();
     }
