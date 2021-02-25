@@ -1,68 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:orientation="vertical"
+    android:padding="10dp"
     tools:context=".Ad_Banner">
 
     <TextView
-        android:layout_marginTop="20dp"
-        android:layout_marginStart="20dp"
-        android:layout_width="match_parent"
         style="@style/TextAppearance.AppCompat.Large"
-        android:layout_height="wrap_content"
-        android:text="Banner Size 50"/>
-
-    <androidx.cardview.widget.CardView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="20dp"
-        android:layout_marginBottom="20dp"
-        android:clickable="true"
-        android:focusable="true"
-        android:foreground="?attr/selectableItemBackground"
-        app:cardCornerRadius="2dp"
-        app:cardElevation="5dp">
+        android:layout_marginTop="20dp"
+        android:text="Banner Size 50" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="73dp"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="6dp"
+        app:cardElevation="6dp"
+        app:cardUseCompatPadding="true">
 
         <RelativeLayout
             android:id="@+id/ad_banner_50"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content" />
 
-    </androidx.cardview.widget.CardView>
+    </com.google.android.material.card.MaterialCardView>
 
     <TextView
-        android:layout_marginTop="50dp"
-        android:layout_marginStart="20dp"
-        android:layout_width="match_parent"
         style="@style/TextAppearance.AppCompat.Large"
-        android:layout_height="wrap_content"
-        android:text="Banner Size 90"/>
-
-    <androidx.cardview.widget.CardView
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginStart="20dp"
-        android:layout_gravity="center"
-        android:layout_marginTop="10dp"
-        android:layout_marginEnd="20dp"
-        android:layout_marginBottom="20dp"
-        android:clickable="true"
-        android:focusable="true"
-        android:foreground="?attr/selectableItemBackground"
-        app:cardCornerRadius="2dp"
-        app:cardElevation="5dp">
+        android:layout_marginTop="50dp"
+        android:text="Banner Size 90" />
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="112dp"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardCornerRadius="6dp"
+        app:cardElevation="6dp"
+        app:cardUseCompatPadding="true">
 
         <RelativeLayout
             android:id="@+id/ad_banner_90"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content" />
 
-    </androidx.cardview.widget.CardView>
+    </com.google.android.material.card.MaterialCardView>
 
 </LinearLayout>

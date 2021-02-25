@@ -6,10 +6,10 @@
     tools:context=".Ad_Rectangle">
 
     <RelativeLayout
+        android:id="@+id/ad_rectangle"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:gravity="center"
-        android:id="@+id/ad_rectangle"/>
+        android:gravity="center" />
 
 </LinearLayout>

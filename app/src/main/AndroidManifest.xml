@@ -10,13 +10,14 @@
         android:name=".ActivityBase"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/ThemeAds"
         tools:ignore="GoogleAppIndexingWarning">
 
         <activity
-            android:theme="@style/ThemeSplash"
-            android:name=".ActivitySplash">
+            android:name=".ActivitySplash"
+            android:theme="@style/ThemeSplash">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -24,9 +25,9 @@
         </activity>
 
         <activity
-            android:theme="@style/ThemeDefault"
             android:name=".ActivityHome"
-            android:label="Home Page" />
+            android:label="Home Page"
+            android:theme="@style/ThemeDefault" />
 
         <activity
             android:name=".Ad_Banner"
@@ -43,6 +44,10 @@
         <activity
             android:name=".Ad_Reward"
             android:label="Reward Ad" />
+
+        <activity
+            android:name=".Ad_Native"
+            android:label="Native Ad" />
 
     </application>
 

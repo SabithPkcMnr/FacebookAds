@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Facebook_Ads.iml" filepath="$PROJECT_DIR$/.idea/modules/Facebook_Ads.iml" group="Facebook_Ads" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Facebook Ads/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Facebook_Ads.iml" filepath="$PROJECT_DIR$/.idea/modules/Facebook_Ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Facebook_Ads.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Facebook_Ads.app.iml" />
     </modules>
   </component>
 </project>

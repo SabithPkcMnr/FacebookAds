@@ -3,9 +3,14 @@ package com.sabithpkcmnr.facebookads;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 import android.view.MenuItem;
 import android.widget.RelativeLayout;
 
+import com.facebook.ads.Ad;
+import com.facebook.ads.AdError;
+import com.facebook.ads.AdListener;
+import com.facebook.ads.AdSettings;
 import com.facebook.ads.AdSize;
 import com.facebook.ads.AdView;
 
@@ -21,8 +26,33 @@ public class Ad_Rectangle extends AppCompatActivity {
         AdView adView = new AdView(this, ActivityConfig.FB_RECTANGLE,
                 AdSize.RECTANGLE_HEIGHT_250);
         adContainer.addView(adView);
-        adView.loadAd();
 
+        AdListener adListener = new AdListener() {
+            @Override
+            public void onError(Ad ad, AdError adError) {
+                Log.d("logAdLoadError", "Error: " + adError.getErrorMessage());
+            }
+
+            @Override
+            public void onAdLoaded(Ad ad) {
+
+            }
+
+            @Override
+            public void onAdClicked(Ad ad) {
+
+            }
+
+            @Override
+            public void onLoggingImpression(Ad ad) {
+
+            }
+        };
+
+        AdView.AdViewLoadConfig loadAdConfig = adView.buildLoadAdConfig()
+                .withAdListener(adListener)
+                .build();
+        adView.loadAd(loadAdConfig);
     }
 
     @Override

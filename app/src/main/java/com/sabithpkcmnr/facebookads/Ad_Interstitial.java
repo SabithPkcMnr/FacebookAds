@@ -6,12 +6,16 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.facebook.ads.AbstractAdListener;
 import com.facebook.ads.Ad;
 import com.facebook.ads.AdError;
+import com.facebook.ads.AdListener;
+import com.facebook.ads.AdSettings;
+import com.facebook.ads.AdView;
 import com.facebook.ads.InterstitialAd;
 
 public class Ad_Interstitial extends AppCompatActivity {
@@ -32,31 +36,14 @@ public class Ad_Interstitial extends AppCompatActivity {
         progress = findViewById(R.id.interstitial_progress);
 
         interstitialAd = new InterstitialAd(this, ActivityConfig.FB_INTERSTITIAL);
-        interstitialAd.loadAd();
-        interstitialAd.setAdListener(new AbstractAdListener() {
-
+        AbstractAdListener adListener = new AbstractAdListener() {
             @Override
             public void onError(Ad ad, AdError error) {
-                super.onError(ad, error);
-                Log.d("adInterLog", error.getErrorMessage());
                 progress.setVisibility(View.GONE);
                 txStatus.setText("Ad Failed to load");
+                Toast.makeText(Ad_Interstitial.this, "Error loading ad: " + error.getErrorMessage(), Toast.LENGTH_SHORT).show();
+                super.onError(ad, error);
             }
-
-            @Override
-            public void onInterstitialDisplayed(Ad ad) {
-                super.onInterstitialDisplayed(ad);
-                progress.setVisibility(View.GONE);
-                txStatus.setText("Ad Displayed");
-            }
-
-            @Override
-            public void onInterstitialDismissed(Ad ad) {
-                super.onInterstitialDismissed(ad);
-                progress.setVisibility(View.GONE);
-                txStatus.setText("Ad Closed");
-            }
-
             @Override
             public void onAdLoaded(Ad ad) {
                 super.onAdLoaded(ad);
@@ -65,15 +52,27 @@ public class Ad_Interstitial extends AppCompatActivity {
                     interstitialAd.show();
                 }
             }
-        });
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        if (item.getItemId() == android.R.id.home) {
-            finish();
-        }
-        return super.onOptionsItemSelected(item);
+            @Override
+            public void onAdClicked(Ad ad) {
+                super.onAdClicked(ad);
+            }
+            @Override
+            public void onInterstitialDisplayed(Ad ad) {
+                super.onInterstitialDisplayed(ad);
+                progress.setVisibility(View.GONE);
+                txStatus.setText("Ad Displayed");
+            }
+            @Override
+            public void onInterstitialDismissed(Ad ad) {
+                super.onInterstitialDismissed(ad);
+                progress.setVisibility(View.GONE);
+                txStatus.setText("Ad Closed");
+            }
+        };
+        InterstitialAd.InterstitialLoadAdConfig interstitialLoadAdConfig = interstitialAd.buildLoadAdConfig()
+                .withAdListener(adListener)
+                .build();
+        interstitialAd.loadAd(interstitialLoadAdConfig);
     }
 
     @Override
@@ -86,5 +85,13 @@ public class Ad_Interstitial extends AppCompatActivity {
     protected void onResume() {
         super.onResume();
         canShowFullscreenAd = true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        if (item.getItemId() == android.R.id.home) {
+            finish();
+        }
+        return super.onOptionsItemSelected(item);
     }
 }
