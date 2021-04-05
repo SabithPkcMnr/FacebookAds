@@ -213,6 +213,39 @@
 
             </com.google.android.material.card.MaterialCardView>
 
+            <com.google.android.material.card.MaterialCardView
+                android:id="@+id/cdNativeList"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:cardBackgroundColor="@android:color/white"
+                app:cardCornerRadius="6dp"
+                app:cardElevation="6dp"
+                app:cardUseCompatPadding="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="20dp"
+                        android:layout_weight="1"
+                        android:text="Native Ad List Style"
+                        android:textColor="@android:color/black"
+                        android:textSize="22sp" />
+
+                    <View
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginEnd="10dp"
+                        android:background="@drawable/ellipse_card_corner_dark" />
+
+                </LinearLayout>
+
+            </com.google.android.material.card.MaterialCardView>
+
             <View
                 android:layout_width="250dp"
                 android:layout_height="1dp"
@@ -274,17 +307,16 @@
                             android:text="Join Now"
                             android:textStyle="bold" />
 
-
                     </LinearLayout>
 
                     <TextView
+                        style="@style/TextAppearance.MaterialComponents.Caption"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_marginStart="20dp"
                         android:layout_marginEnd="20dp"
                         android:layout_marginBottom="20dp"
-                        android:text="@string/privacy_policy"
-                        android:textSize="12sp" />
+                        android:text="@string/privacy_policy" />
 
                 </LinearLayout>
 

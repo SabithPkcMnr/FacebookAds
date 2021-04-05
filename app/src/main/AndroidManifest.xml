@@ -49,6 +49,10 @@
             android:name=".Ad_Native"
             android:label="Native Ad" />
 
+        <activity
+            android:name=".Ad_Native_List"
+            android:label="Native Ad List Style" />
+
     </application>
 
 </manifest>

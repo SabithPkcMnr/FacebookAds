@@ -17,6 +17,5 @@ public class ActivityBase extends Application {
             AdSettings.setTestMode(true);
         }
 
-
     }
 }

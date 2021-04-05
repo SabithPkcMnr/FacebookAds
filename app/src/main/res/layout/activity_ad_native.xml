@@ -6,13 +6,14 @@
     android:layout_gravity="center"
     android:background="#f1f1f1"
     android:gravity="center"
+    android:padding="20dp"
     tools:context=".Ad_Native">
 
     <LinearLayout
-        android:background="@android:color/white"
         android:layout_width="match_parent"
-        android:layout_height="300dp"
+        android:layout_height="250dp"
         android:layout_gravity="center"
+        android:background="@android:color/white"
         android:gravity="center">
 
         <com.facebook.ads.NativeAdLayout

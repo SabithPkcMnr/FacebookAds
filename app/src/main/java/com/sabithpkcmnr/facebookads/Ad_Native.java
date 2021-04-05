@@ -103,6 +103,7 @@ public class Ad_Native extends AppCompatActivity {
         List<View> clickableViews = new ArrayList<>();
         clickableViews.add(nativeAdTitle);
         clickableViews.add(nativeAdCallToAction);
+        clickableViews.add(nativeAdIcon);
 
         nativeAd.registerViewForInteraction(
                 adView, nativeAdMedia, nativeAdIcon, clickableViews);
