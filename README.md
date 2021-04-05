@@ -21,6 +21,8 @@ The ads may not be displaying on Android Emulators so try to run the app on a re
 <br>- Interstitial Ad
 <br>- Rectangle Banner Ad
 <br>- Reward Ad (Require approval to request ad)</b>
+<br>- Native Ad (Rectangle)</b>
+<br>- Native Ad (List Stype)</b>
 <img src="/screenshots/fb_ads_repo_promo.webp">
 
 <br>
