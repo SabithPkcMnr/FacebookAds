@@ -1,4 +1,4 @@
-### ⭕ Facebook Audience Network is now only using bidding to fill ads, this means you need to connect the Fb ad with any other mediation network.
+### ⭕ Facebook Audience Network is now only using bidding to fill ads, this means you need to connect the Fb ad with any other mediation network. [More info](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/get-started/)
 
 # FacebookAds
 An Android app that displays all the Facebook Mobile Ads based on Audience Network SDK. Replace the existing adunits from <b>ActivityConfig.java class</b>. Facebook offer some extra tips on how to implement the ads for Android on this [page](https://developers.facebook.com/docs/audience-network/sdk-integration-tips-on-android/).
