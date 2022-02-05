@@ -1,4 +1,4 @@
-### ⭕ Facebook Audience Network is now only using bidding to fill ads, this means you need to connect the your Facebook ad units with any mediation network like AdMob or AppLovin and run it under them. [More info](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/get-started/)
+### ⭕ Facebook Audience Network is now only using bidding to fill ads, this means you need to connect the your Facebook ad units with mediation network like AdMob or AppLovin and run it under them. [Read more info](https://developers.facebook.com/docs/audience-network/setting-up/platform-setup/android/get-started/)
 
 # FacebookAds
 An Android app that displays all the Facebook Mobile Ads based on Audience Network SDK. Replace the existing adunits from <b>ActivityConfig.java class</b>. Facebook offer some extra tips on how to implement the ads for Android on this [page](https://developers.facebook.com/docs/audience-network/sdk-integration-tips-on-android/).
@@ -17,7 +17,7 @@ AudienceNetworkAds.initialize(this);
         
 
 ## Ads Implemented in the app
-The ads may not be displaying on Android Emulators so try to run the app on a real Android Phone or Tablet:
+The ads may not be displaCancel changesying on Android Emulators so try to run the app on a real Android Phone or Tablet:
 <h3>Ad Types</h3>
 <b>- Banner Ad (50 & 90 Sized)
 <br>- Interstitial Ad
